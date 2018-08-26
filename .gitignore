@@ -1,0 +1,38 @@
+# Ignore All
+/*
+
+# Except:
+## Sources
+!/*.html
+!/*.xhtml
+
+## Git
+!/.gitattributes
+!/.gitignore
+!/.gitmodules
+!/LICENSE*
+!/README*
+
+## GitHub
+!/.github
+!/CNAME
+
+## npm + ruby
+!/.*ignore
+!/.*rc.js
+!/.*rc.yml
+!/.*rc.json
+!/Gemfile*
+!/gulpfile*
+!/package*
+!/shrinkwrap*
+
+# Unwanted crap
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
